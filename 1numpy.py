@@ -9,3 +9,6 @@ b
 import numpy as np
 b=np.array([[1,2,3],[1.2,3,5,],[4,5,6]])
 b
+
+import numpy as np
+np.zeros([1,1,2,5,9])
