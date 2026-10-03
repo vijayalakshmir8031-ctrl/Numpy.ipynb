@@ -30,3 +30,8 @@ import numpy as np
 a = np.eye(4)
 a
 
+import numpy as np
+
+a = np.random.randint(1, 9)
+
+print(a)
