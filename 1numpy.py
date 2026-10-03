@@ -25,3 +25,8 @@ e
 import numpy as np
 a = np.arange(10,50,5)
 a
+
+import numpy as np
+a = np.eye(4)
+a
+
