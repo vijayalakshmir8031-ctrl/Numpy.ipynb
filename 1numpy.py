@@ -35,3 +35,7 @@ import numpy as np
 a = np.random.randint(1, 9)
 
 print(a)
+
+import numpy as np
+a = np.empty((2,3))
+a
