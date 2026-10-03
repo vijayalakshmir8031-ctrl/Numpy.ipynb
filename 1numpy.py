@@ -21,3 +21,7 @@ print(a.size)
 
 e=np.full((1,1),7)
 e
+
+import numpy as np
+a = np.arange(10,50,5)
+a
