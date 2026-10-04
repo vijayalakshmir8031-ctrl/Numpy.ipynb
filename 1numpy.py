@@ -39,3 +39,9 @@ print(a)
 import numpy as np
 a = np.empty((2,3))
 a
+
+import numpy as np
+
+a = np.array([10, 20, 30, 40, 50])
+
+print(a)
