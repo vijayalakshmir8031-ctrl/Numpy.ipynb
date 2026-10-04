@@ -58,3 +58,12 @@ a = np.array([15, 8, 25, 10, 30])
 
 print("Maximum:", np.max(a))
 print("Minimum:", np.min(a))
+
+import numpy as np
+
+a = np.array([1, 2, 3])
+b = np.array([4, 5, 6])
+
+c = a + b
+
+print(c)
