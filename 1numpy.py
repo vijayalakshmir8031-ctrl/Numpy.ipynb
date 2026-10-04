@@ -51,3 +51,10 @@ import numpy as np
 a = np.arange(1, 11)
 
 print(a)
+
+import numpy as np
+
+a = np.array([15, 8, 25, 10, 30])
+
+print("Maximum:", np.max(a))
+print("Minimum:", np.min(a))
