@@ -84,3 +84,8 @@ import numpy as np
 
 a = np.zeros(3)
 print(a)
+
+import numpy as np
+
+a = np.array([10, 25, 5, 30])
+print(a.max())
