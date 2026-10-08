@@ -146,3 +146,8 @@ import numpy as np
 
 a = np.array([10, 20, 30, 40])
 print(np.mean(a))
+
+import numpy as np
+
+a = np.array([5, 10, 15])
+print(np.sum(a))
