@@ -141,3 +141,8 @@ import numpy as np
 arr = np.arange(1, 11)
 
 print(arr)
+
+import numpy as np
+
+a = np.array([10, 20, 30, 40])
+print(np.mean(a))
