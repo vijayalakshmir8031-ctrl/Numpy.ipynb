@@ -165,3 +165,8 @@ print(a)
 import numpy as np
 a = np.zeros((2,3)) #creates a 2D array filled with zeros
 print(a)
+
+import numpy as np
+a = np.eye(4) #creates a 2D array with ones on the diagonal and zeros elsewhere
+print(a)
+
