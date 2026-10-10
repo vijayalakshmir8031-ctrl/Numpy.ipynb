@@ -173,3 +173,9 @@ print(a)
 import numpy as np
 a = np.arange(1,10,2) #srtart, stop, step
 print(a)
+
+import numpy as np
+a = np.array([[1,2,3],[4,5,6]])
+print(a.shape) #number of rows and columns
+print(a.size) #total number of elements
+print(a.ndim) #number of dimensions or 2D array
