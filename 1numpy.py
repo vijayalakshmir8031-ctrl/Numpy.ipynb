@@ -161,3 +161,7 @@ import numpy as np
 
 a = np.ones((2, 3))
 print(a)
+
+import numpy as np
+a = np.zeros((2,3)) #creates a 2D array filled with zeros
+print(a)
