@@ -179,3 +179,10 @@ a = np.array([[1,2,3],[4,5,6]])
 print(a.shape) #number of rows and columns
 print(a.size) #total number of elements
 print(a.ndim) #number of dimensions or 2D array
+
+#Division
+import numpy as np
+arr1 = np.array([1, 2, 3])
+arr2 = np.array([4, 5, 6])
+div = arr1 / arr2
+print(div)  
