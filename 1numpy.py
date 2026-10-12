@@ -220,3 +220,7 @@ print(a.astype(float)) #convert the data type of the array elements to float
 import numpy as np
 a = np.array([[1,2,3],[4,5,6]])
 print(a.dtype) #data type of the array elements
+
+import numpy as np
+a = np.array([[1,2,3],[4,5,6]])
+print(len(a)) #number of rows
