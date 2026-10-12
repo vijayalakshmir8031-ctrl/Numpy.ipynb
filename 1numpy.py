@@ -224,3 +224,7 @@ print(a.dtype) #data type of the array elements
 import numpy as np
 a = np.array([[1,2,3],[4,5,6]])
 print(len(a)) #number of rows
+
+import numpy as np
+a = np.empty((2,3)) #2 rows and 3 column
+print(a)
