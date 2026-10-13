@@ -228,3 +228,7 @@ print(len(a)) #number of rows
 import numpy as np
 a = np.empty((2,3)) #2 rows and 3 column
 print(a)
+
+arr = [10, 20, 30, 40, 50]
+
+print(arr[0])
