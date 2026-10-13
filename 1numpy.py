@@ -235,3 +235,6 @@ print(arr[0])
 arr = [10, 20, 30, 40, 50]
 
 print(arr[-1])
+arr = [5, 15, 25, 35, 45]
+
+print(arr[2])
