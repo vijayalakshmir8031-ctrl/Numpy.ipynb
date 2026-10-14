@@ -15,7 +15,7 @@ np.zeros([1,1,2,5,9])
 
 a = np.zeros([1, 2, 3, 1, 4]) 
 
-print(a.shape)
+print(a.shape) 
 print(a.ndim)
 print(a.size)
 
