@@ -19,7 +19,7 @@ print(a.shape)
 print(a.ndim)
 print(a.size)
 
-e=np.full((1,1),7)
+e=np.full((1,1),7) 
 e
 
 import numpy as np
